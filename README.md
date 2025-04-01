@@ -1,10 +1,12 @@
 # Web Development Practice Projects
 
 ![HTML TEST 1 DEMO](![image](https://github.com/user-attachments/assets/e0f354b9-f76f-4b16-86d2-205f793d16e1))
+![HTML TEST 2 DEMO](![image](https://github.com/user-attachments/assets/e0f354b9-f76f-4b16-86d2-205f793d16e1))
+
 
 This repository contains two simple web applications for learning purposes:
-1. **HTML Test 1** - Todo List Application
-2. **HTML Test 2** - Book Tracker Application
+1. **HTML Test 1** - Todo List 
+2. **HTML Test 2** - Book Tracker 
 
 ## 1. Todo List (html test 1)
 
